@@ -1,4 +1,4 @@
-<img alt="dsmark"  height="5%" width="5%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif"> 
+<img alt="dsmark"  height="3%" width="3%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif"> 
 <a>
     <img src="https://komarev.com/ghpvc/?username=18mgdev" alt="18mgdev" />
 </a>
