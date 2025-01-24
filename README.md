@@ -8,7 +8,7 @@
 
 <center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&center=true&vCenter=true&random=true&width=435&lines=Deep+Learning;Machine+Learning;Artificial+Inteligence;Big+Data;Natural+Language+Processing;Computer+Vision;Neural+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&center=true&vCenter=true&random=true&width=435&lines=Deep+Learning;Machine+Learning;Artificial+Intelligence;Big+Data;Natural+Language+Processing;Computer+Vision;Neural+Networks)](https://git.io/typing-svg)
 
 # Welcome to Miguel's developer profile 👋
 
