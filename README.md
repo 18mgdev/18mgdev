@@ -15,7 +15,46 @@
 **🧪 Data Scientist** | **⚙️ Software Engineer** | **🎨 Web Developer**
 
 
-[![](https://mermaid.ink/img/pako:eNqFVEtu2zAQvQrBojvH1v-3S-KkLVADAZy2SOHNWKJkthIpULQbx_AVuukBihygp8iFeoQOLduV3ATlRtSbNzOPM0NuaCozRhNagNB6JgguLTNYT0B9ZYpIsce4Lhm55RUruWBE5uQ8XXC2YhUTumk5GWh2LVUFmtzhOptMWhzuebPHX9_N9gEblmouxTNhLnlaSjJd1kxxqciYNaCULBHLGDmvS55Cip6sIZ_YnBxXkiE2IGAPiGPZ0ZkVm41jnVlBG9ewx5iqlBiZ_P75_cfBs-Ila_TOvbJb8jtRMMGZevoFmLYkU5nrb6AY-XAzOUnoHPK0Cb1jwqPPlSiwaL2kvZxOy588PTYaWee1YiLjD_AFz7vUsnp61DyVZE3GoGVDJtDwFX7_SsF4gOVcGTnuQUUrxz_KQWcg05RjpXmjXyyAazo0E3RAK4Y94xkOx8ZEmFG9wD7NaILbOTS4G3Twj6A4zDGOIWzalMZYK16BWl_KUqrW95XLwpDZe_ce65bd6y7TsqweLZdCT_nDTkRg_et_IVXGVDdCHuex189lJvg_FJxOKbIT2dfRhePEz_NOhPdI2FPNT2KlPrPy_FnaaQ0O8lrmdl_z9r72S10onr3Hw001KH0DWcZFYSie_0IJHbt_FnMjr7t2p2Ofg3oDtYHtoA-_ZbxY7MT43Z6ULO-qCLsqlPHoGi1j287Edjd6gGM_XYuUJlot2YAquSwWNMmhbPBvWZunZsyhUFAd0RrEZymrg0tLusq4lurIKSXgfNBkQ_W63j17eBUwH3Yx54XBl6pEeKF13SSjkTEPC64Xy_kwldWo4dkCa7tYxcEocIIIHJcFoQu-62bp3I6j3PHsPAst2wG63e5Emaj3NImioWe7nhP6se0FoRMO6Jomth8Ng9i3MFjsRbZto8_D7hTWMHIQ8cI48Lww9N14QNnuNJP2xd5r3v4BfF7BzQ?type=png)](https://mermaid.live/edit#pako:eNqFVEtu2zAQvQrBojvH1v-3S-KkLVADAZy2SOHNWKJkthIpULQbx_AVuukBihygp8iFeoQOLduV3ATlRtSbNzOPM0NuaCozRhNagNB6JgguLTNYT0B9ZYpIsce4Lhm55RUruWBE5uQ8XXC2YhUTumk5GWh2LVUFmtzhOptMWhzuebPHX9_N9gEblmouxTNhLnlaSjJd1kxxqciYNaCULBHLGDmvS55Cip6sIZ_YnBxXkiE2IGAPiGPZ0ZkVm41jnVlBG9ewx5iqlBiZ_P75_cfBs-Ila_TOvbJb8jtRMMGZevoFmLYkU5nrb6AY-XAzOUnoHPK0Cb1jwqPPlSiwaL2kvZxOy588PTYaWee1YiLjD_AFz7vUsnp61DyVZE3GoGVDJtDwFX7_SsF4gOVcGTnuQUUrxz_KQWcg05RjpXmjXyyAazo0E3RAK4Y94xkOx8ZEmFG9wD7NaILbOTS4G3Twj6A4zDGOIWzalMZYK16BWl_KUqrW95XLwpDZe_ce65bd6y7TsqweLZdCT_nDTkRg_et_IVXGVDdCHuex189lJvg_FJxOKbIT2dfRhePEz_NOhPdI2FPNT2KlPrPy_FnaaQ0O8lrmdl_z9r72S10onr3Hw001KH0DWcZFYSie_0IJHbt_FnMjr7t2p2Ofg3oDtYHtoA-_ZbxY7MT43Z6ULO-qCLsqlPHoGi1j287Edjd6gGM_XYuUJlot2YAquSwWNMmhbPBvWZunZsyhUFAd0RrEZymrg0tLusq4lurIKSXgfNBkQ_W63j17eBUwH3Yx54XBl6pEeKF13SSjkTEPC64Xy_kwldWo4dkCa7tYxcEocIIIHJcFoQu-62bp3I6j3PHsPAst2wG63e5Emaj3NImioWe7nhP6se0FoRMO6Jomth8Ng9i3MFjsRbZto8_D7hTWMHIQ8cI48Lww9N14QNnuNJP2xd5r3v4BfF7BzQ)
+```mermaid
+classDiagram
+    Miguel <|-- WebDeveloper
+    Miguel <|-- SoftwareEngineer
+    SoftwareEngineer <|-- DataScientist
+
+    Miguel : 👨‍💻 🙋🏼‍♂️ 😀
+    Miguel: +self-taught
+    Miguel: +quick_learning()
+    
+
+    class WebDeveloper{
+        💻🎨
+        +studiedAt = "IES San Juan de la Cruz"
+        +degreeType = "Ciclo Superior"
+        +duration = "2018-2020 🎓"
+        +buildResponsiveUI()
+        +optimizePerformance()
+    }
+
+    class SoftwareEngineer{
+        💻⚙️
+        +studiedAt = "Universidad Politécnica de Madrid"
+        +degreeType = "Grado Universitario"
+        +duration = "2020-2024 🎓"
+        +developScalableSystems()
+        +writeEfficientAlgorithms()
+        +debugComplexIssues()
+    }
+
+    class DataScientist{
+        👨🏼‍🔬🤖🧠
+        +studiedAt = "Universidad Politécnica de Madrid"
+        +degreeType = "Máster Universitario"
+        +duration = "2024-2025 🎓"
+        +buildPredictiveModels()
+        +analyzeLargeDatasets()
+        +deployMLModels()
+    }
+```
 
 </center>
 
