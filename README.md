@@ -106,6 +106,21 @@ classDiagram
 </p>
 </br>
 
+## My projects 💡
+> ## ⚽ **Browers FC** webpage <a href="https://browers.es">browers.es</a>
+> <div style="display: flex; align-items: center; gap: 10px;">
+>     <img alt="browers logo" height="15%" width="15%" src="https://browers.es/assets/img/browers-brand.png">
+>     <span>Página web para seguir los partidos, noticias y estadísticas de un equipo de fútbol.</span>
+> </div>
+> <div style="text-align: right;">Release: <b>2023</b></div>
+
+> ## 🤖 **@audiohilo** bot <a href="https://twitter.com/audiohilo">twitter.com/audiohilo</a>
+> <div style="display: flex; align-items: center; gap: 10px;">
+>     <img alt="audiohilo logo" height="15%" width="15%" src="https://pbs.twimg.com/profile_images/1565823295798317058/_HvQh6xN_400x400.jpg">
+>     <span>Bot de Twitter para transcribir hilos en formato audible. <br> ⚠️ <span style="color: yellow">Lamentablemente, el bot ya no está en servicio debido a los cambios en la API de X, que han restringido su funcionamiento.</span></span>
+> </div>
+> <div style="text-align: right;">Release: <b>2022</b></div>
+
 ## 🤝 Connect with me!
 <p align="center">
 	<a href="mailto:gogmi18@gmail.com"><img img src="https://img.shields.io/badge/gogmi18@gmail.com-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
